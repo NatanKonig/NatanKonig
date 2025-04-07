@@ -32,8 +32,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/natankonig/natankonig/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/natankonig/natankonig/output/snake.svg" alt="Snake animation" />
-
 ## 🔧 Tecnologias & Ferramentas
 
 <details open>
