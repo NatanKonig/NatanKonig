@@ -1,30 +1,135 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e7f216&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Natan+Konig;I'm+18+years+old;I+am+from+Brazil,+SC;I+study+in+IFSC;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NatanKonig&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatanKonig&layout=compact&hide_border=true&bg_color=0d1117&theme=highcontrast" />
+  <table border="0">
+    <tr>
+      <td width="30%" align="center">
+        <img src="https://i.imgur.com/ETnqCLB.png" width="200" alt="dev animation" />
+      </td>
+      <td width="40%" align="center">
+        <h1>Natan Konig</h1>
+        <p><i>Desenvolvedor apaixonado por criar soluções inovadoras</i></p>
+        <p>👨‍💻 Transformando ideias em código | 🚀 Sempre aprendendo</p>
+      </td>
+      <td width="30%" align="center">
+        <img src="https://static.vecteezy.com/system/resources/previews/035/982/843/non_2x/ai-generated-monkey-isolated-on-transparent-background-free-png.png" width="200" alt="tech animation" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-## Languages and Technologies
+---
 
-[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=31709f" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=f29112" alt="MySQL logo" title="MySQL" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=e51f24" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/GIT-282C34?logo=git&logoColor=e44c30" alt="GIT logo" title="GIT" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=white" alt="GitHub logo" title="GitHub" height="25" />][tech_tools_anchor]
-&nbsp;
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=natankonig&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natankonig&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+## 🎮 Contribuições
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/natankonig/natankonig/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/natankonig/natankonig/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/natankonig/natankonig/output/pacman-contribution-graph.svg">
+</picture>
+
+<img src="https://raw.githubusercontent.com/natankonig/natankonig/output/snake.svg" alt="Snake animation" />
+
+## 🔧 Tecnologias & Ferramentas
+
+<details open>
+  <summary><b>🧰 Linguagens de Programação</b></summary>
+  <br>
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
+  </div>
+</details>
+<details open>
+  <summary><b>⚙️ Frameworks & Bibliotecas</b></summary>
+  <br>
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
+  </div>
+</details>
+<details open>
+  <summary><b>🗄️ Bancos de Dados</b></summary>
+  <br>
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" />
+  </div>
+</details>
+<details open>
+  <summary><b>🛠️ DevOps & Ferramentas</b></summary>
+  <br>
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo" />
+  </div>
+</details>
+<details open>
+  <summary><b>💻 IDEs & Ferramentas de Desenvolvimento</b></summary>
+  <br>
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
+  </div>
+</details>
 
 
+## 📱 Contato
 
+<div align="left">
+  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/seu-twitter" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/users/seu-discord" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://youtube.com/@seu-canal" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
 
-![Snake animation](https://github.com/NatanKonig/NatanKonig/blob/output/github-contribution-grid-snake.svg)
+## 🎬 Momento Relax
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e7f216&height=120&section=footer"/>
+<div align="center">
+  <img height="200" src="https://i.giphy.com/JyyUwsNClJDoI.webp"  />
+</div>
 
-[tech_tools_anchor]: #bonjour--
+## 👀 Contador de Visitantes
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/natankonig/count.svg?"  />
+</div>
+
+---
+
+<div align="center">
+  <p>💡 <i>"A tecnologia muda o mundo, mas são as pessoas por trás do código que definem essa mudança."</i></p>
+</div>
