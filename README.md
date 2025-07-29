@@ -117,7 +117,7 @@
 ## 👀 Contador de Visitantes
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/natankonig/count.svg?"  />
+  <img alt="Visitor Stats" src="https://widgetbite.com/stats/natankonig"/>  
 </div>
 
 ---
