@@ -114,12 +114,6 @@
   <img height="200" src="https://i.giphy.com/JyyUwsNClJDoI.webp"  />
 </div>
 
-## 👀 Contador de Visitantes
-
-<div align="center">
-  <img alt="Visitor Stats" src="https://widgetbite.com/stats/natankonig"/>  
-</div>
-
 ---
 
 <div align="center">
